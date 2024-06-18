@@ -1,0 +1,3 @@
+ mvn install -DskipTests
+
+mvn clean install sonar:sonar -D sonar.login=squ_e3ea05c0fb1bdf1afcf89d213278076b4d3bc168
